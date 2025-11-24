@@ -1,0 +1,4 @@
+Name: Alice, Marks: 85, Department: Computer Science
+Name: Charlie, Marks: 90, Department: Computer Science
+Name: Eve, Marks: 88, Department: Computer Science
+Name: Frank, Marks: 81, Department: Mechanical Engineering

@@ -1,0 +1,6 @@
+Alice,85,Computer Science
+Bob,72,Mechanical Engineering
+Charlie,90,Computer Science
+Diana,78,Electronics
+Eve,88,Computer Science
+Frank,81,Mechanical Engineering
