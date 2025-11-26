@@ -1,6 +1,6 @@
 import pandas as pd
 
-a=pd.Series([1,2,3,4,5],index=['a','b','c','d','e'])
+a=pd.Series([1,2,3,4,5],index=['a','b','c','d','e'] )
 print(a)
 
 DDS=pd.DataFrame({"names":["soumya","pranab","samit","rana"],"Marks":[100,35,78,92]})
